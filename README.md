@@ -45,5 +45,6 @@ This tool is intended for **authorized security testing, auditing, and research*
 ---
 
 ## 📋 Requirements
-```bash
-pip install pyzk
+
+<pre> ```bash pip install pyzk ``` </pre>
+
