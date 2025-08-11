@@ -109,10 +109,11 @@ Change port and timeout
 </pre>
 
 🛡 Security Considerations
+<pre>
  No password storage: Tool does not persist device credentials
  Read-only by default: Write operations require confirmation
  Network isolation recommended: Run in secure lab environments
-
+</pre>
 
 
 
